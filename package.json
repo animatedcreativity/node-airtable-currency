@@ -10,7 +10,6 @@
     "start": "node main.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
     "open-exchange-rates": "^0.3.0",
     "airtable": "^0.5.8"
   },
