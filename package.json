@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
   "name": "node-airtable-currency",
   "version": "0.0.2",
-  "description": "Fill currency rates to Airtable spreadsheet.",
+  "description": "Fill open exchange currency rates to Airtable spreadsheet.",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
