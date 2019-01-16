@@ -3,7 +3,7 @@
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
   "name": "node-airtable-currency",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Fill open exchange currency rates to Airtable spreadsheet.",
   "main": "main.js",
   "scripts": {
